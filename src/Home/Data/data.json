@@ -1,0 +1,196 @@
+{
+    "gratuity_and_tips": [
+        {
+            "name": "29/04",
+            "gratuity": 400,
+            "tips": 240
+        },
+        {
+            "name": "30/04",
+            "gratuity": 300,
+            "tips": 139
+        },
+        {
+            "name": "01/05",
+            "gratuity": 200,
+            "tips": 280
+        },
+        {
+            "name": "02/05",
+            "gratuity": 278,
+            "tips": 390
+        },
+        {
+            "name": "03/05",
+            "gratuity": 189,
+            "tips": 480
+        },
+        {
+            "name": "04/05",
+            "gratuity": 239,
+            "tips": 380
+        },
+        {
+            "name": "05/05",
+            "gratuity": 349,
+            "tips": 430
+        }
+    ],
+    "sales": [
+        {
+            "name": "29/04",
+            "sales": 4000
+        },
+        {
+            "name": "30/04",
+            "sales": 3000
+        },
+        {
+            "name": "01/05",
+            "sales": 2000
+        },
+        {
+            "name": "02/05",
+            "sales": 2780
+        },
+        {
+            "name": "03/05",
+            "sales": 1890
+        },
+        {
+            "name": "04/05",
+            "sales": 2390
+        },
+        {
+            "name": "05/05",
+            "sales": 3490
+        }
+    ],
+    "food_and_alcohol_sales": [
+        {
+            "name": "29/04",
+            "food_sales": 4000,
+            "alcohol_sales": 2400
+        },
+        {
+            "name": "30/04",
+            "food_sales": 3000,
+            "alcohol_sales": 1390
+        },
+        {
+            "name": "01/05",
+            "food_sales": 2000,
+            "alcohol_sales": 2800
+        },
+        {
+            "name": "02/05",
+            "food_sales": 2780,
+            "alcohol_sales": 3900
+        },
+        {
+            "name": "03/05",
+            "food_sales": 1890,
+            "alcohol_sales": 4800
+        },
+        {
+            "name": "04/05",
+            "food_sales": 2390,
+            "alcohol_sales": 3800
+        },
+        {
+            "name": "05/05",
+            "food_sales": 3490,
+            "alcohol_sales": 4300
+        }
+    ],
+    "labour_cost": [
+        {
+            "name": "29/04",
+            "labour_cost": 1890
+        },
+        {
+            "name": "30/04",
+            "labour_cost": 4500
+        },
+        {
+            "name": "01/05",
+            "labour_cost": 3490
+        },
+        {
+            "name": "02/05",
+            "labour_cost": 2300
+        },
+        {
+            "name": "03/05",
+            "labour_cost": 2100
+        },
+        {
+            "name": "04/05",
+            "labour_cost": 3200
+        },
+        {
+            "name": "05/05",
+            "labour_cost": 1200
+        }
+    ],
+    "kitchen_labour_cost": [
+        {
+            "name": "29/04",
+            "kitchen_labour_cost": 1890
+        },
+        {
+            "name": "30/04",
+            "kitchen_labour_cost": 4500
+        },
+        {
+            "name": "01/05",
+            "kitchen_labour_cost": 3490
+        },
+        {
+            "name": "02/05",
+            "kitchen_labour_cost": 2300
+        },
+        {
+            "name": "03/05",
+            "kitchen_labour_cost": 2100
+        },
+        {
+            "name": "04/05",
+            "kitchen_labour_cost": 3200
+        },
+        {
+            "name": "05/05",
+            "kitchen_labour_cost": 1200
+        }
+    ],
+    "bar_sales": [
+        {
+            "name": "29/04",
+            "bar_sales": 1890
+        },
+        {
+            "name": "30/04",
+            "bar_sales": 4500
+        },
+        {
+            "name": "01/05",
+            "bar_sales": 3490
+        },
+        {
+            "name": "02/05",
+            "bar_sales": 2300
+        },
+        {
+            "name": "03/05",
+            "bar_sales": 2100
+        },
+        {
+            "name": "04/05",
+            "bar_sales": 3200
+        },
+        {
+            "name": "05/05",
+            "bar_sales": 1200
+        }
+    ]
+}

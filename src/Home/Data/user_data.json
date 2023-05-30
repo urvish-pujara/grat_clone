@@ -1,0 +1,112 @@
+{
+  "user_data": [
+    {
+      "Name": "John Doe",
+      "Mobile No.": "1234567890",
+      "Job Role": "Software Engineer",
+      "Status": "Active"
+    },
+    {
+      "Name": "Jane Smith",
+      "Mobile No.": "9876543210",
+      "Job Role": "Product Manager",
+      "Status": "Active"
+    },
+    {
+      "Name": "Alice Johnson",
+      "Mobile No.": "5678901234",
+      "Job Role": "Software Engineer",
+      "Status": "Inactive"
+    },
+    {
+      "Name": "Bob Wilson",
+      "Mobile No.": "4321098765",
+      "Job Role": "Product Manager",
+      "Status": "Active"
+    },
+    {
+      "Name": "Emily Thompson",
+      "Mobile No.": "8901234567",
+      "Job Role": "Product Manager",
+      "Status": "Active"
+    },
+    {
+      "Name": "Michael Davis",
+      "Mobile No.": "7654321098",
+      "Job Role": "Product Manager",
+      "Status": "Active"
+    },
+    {
+      "Name": "Sarah Anderson",
+      "Mobile No.": "3210987654",
+      "Job Role": "HR Manager",
+      "Status": "Active"
+    },
+    {
+      "Name": "David Lee",
+      "Mobile No.": "4567890123",
+      "Job Role": "HR Manager",
+      "Status": "Inactive"
+    },
+    {
+      "Name": "Karen Wilson",
+      "Mobile No.": "2109876543",
+      "Job Role": "HR Manager",
+      "Status": "Active"
+    },
+    {
+      "Name": "James Roberts",
+      "Mobile No.": "6789012345",
+      "Job Role": "HR Manager",
+      "Status": "Active"
+    },
+    {
+      "Name": "Linda Taylor",
+      "Mobile No.": "5432109876",
+      "Job Role": "Project Manager",
+      "Status": "Inactive"
+    },
+    {
+      "Name": "Steven Brown",
+      "Mobile No.": "9012345678",
+      "Job Role": "Software Developer",
+      "Status": "Active"
+    },
+    {
+      "Name": "Jennifer Garcia",
+      "Mobile No.": "2345678901",
+      "Job Role": "Operations Manager",
+      "Status": "Active"
+    },
+    {
+      "Name": "Matthew Hill",
+      "Mobile No.": "7890123456",
+      "Job Role": "Sales Manager",
+      "Status": "Active"
+    },
+    {
+      "Name": "Michelle Clark",
+      "Mobile No.": "7654321098",
+      "Job Role": "Project Manager",
+      "Status": "Inactive"
+    },
+    {
+      "Name": "Andrew Davis",
+      "Mobile No.": "5432109876",
+      "Job Role": "Project Manager",
+      "Status": "Active"
+    },
+    {
+      "Name": "Melissa White",
+      "Mobile No.": "9012345678",
+      "Job Role": "Project Manager",
+      "Status": "Active"
+    },
+    {
+      "Name": "Daniel Harris",
+      "Mobile No.": "2345678901",
+      "Job Role": "IT Support Specialist",
+      "Status": "Active"
+    }
+  ]
+}
